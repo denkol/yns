@@ -1,5 +1,4 @@
-# yns
-YAR-SALE NETWORK source code
+#YAR-SALE NETWORK source code
 
 #What's it?
  
