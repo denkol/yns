@@ -1,0 +1,13 @@
+{
+  "name": "adapter.js",
+  "homepage": "https://github.com/GoogleChrome/webrtc",
+  "_release": "46e8844166",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "46e8844166510f90226b2e5451a380875b7f0357"
+  },
+  "_source": "git://github.com/GoogleChrome/webrtc.git",
+  "_target": "*",
+  "_originalSource": "adapter.js"
+}
