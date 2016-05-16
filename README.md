@@ -11,7 +11,7 @@ Get video from IP or Web cams on your server, and real-time translate picture in
 Also we can use this code for organization web confirence right in your browser.
  
 
-<img src="http://www.kurento.org/docs/current/_images/kurento-java-tutorial-3-one2many-signaling.png" title="Image from kurento.org">
+<img src="http://doc-kurento.readthedocs.io/en/stable/_images/kurento-java-tutorial-3-one2many-pipeline.png" title="Image from kurento.org">
 
 <br><br>
 My scheme for better understanding:
